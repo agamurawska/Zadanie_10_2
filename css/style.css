@@ -1,0 +1,49 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	line-height: 1.4em;
+	vertical-align: baseline;
+	text-decoration: none;
+	outline: 0;
+}
+
+body{
+	margin:0 auto;
+	background: #D7BDE2;
+	}
+	
+#carousel {
+	margin: 15px auto;
+	float: center;
+	height:300px;
+	width: 500px;
+	border: 10px solid #000;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+ul{
+	height: 300px;
+	width: 2000px;
+}
+
+li{ 
+	height: 300px;
+	width: 500px;
+	float: left;
+	list-style-type: none;
+}
+
+.pic1{
+	background: url(\images/pex1.jpeg );
+	}
+.pic2{
+	background: url(\images/pex2.jpeg );
+}
+.pic3{
+	background: url(\images/bubbles.jpeg );
+}
+.pic4{
+	background: url(\images/splash.jpeg );
+}
