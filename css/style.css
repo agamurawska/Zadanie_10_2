@@ -34,16 +34,3 @@ li{
 	float: left;
 	list-style-type: none;
 }
-
-.pic1{
-	background: url(\images/pex1.jpeg );
-	}
-.pic2{
-	background: url(\images/pex2.jpeg );
-}
-.pic3{
-	background: url(\images/bubbles.jpeg );
-}
-.pic4{
-	background: url(\images/splash.jpeg );
-}
